@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [序言](README.md)
 * [CH3 系統平台](untitled.md)
 
