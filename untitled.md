@@ -312,6 +312,7 @@ FIFO:先進先出\(First In First Out，FIFO\)置換法，最早進入記憶體�
 連結這些圖片、聲音與影像的系統就是｢全球資訊網」。
 
 **網頁瀏覽器**
+讓全球資訊網能更方便使用的第一個網頁瀏覽器是Ｍosaic,於1993年正式推出。現代的瀏覽器又有哪些？
 
 **學習加油站**  
 Tim Berners Lee談網路的未來：[https://www.ted.com/talks/tim\_berners\_lee\_on\_the\_next\_web?language=zh-tw](https://www.ted.com/talks/tim_berners_lee_on_the_next_web?language=zh-tw)
